@@ -6,7 +6,7 @@ caption: 'Το Blockly είναι μια client-side βιβλιοθήκη για
 Χρησιμοποιεί μπλοκς για να αναπαραστήσει με γραφικό τρόπο κώδικα προγραμματισμού και δίνει την δυνατότητα στους χρήστες να προγραμματίζουν άφοβα, χωρίς τον κίνδυνο εμφάνισης συναντικτικών λαθών. Η βιβλιοθήκη είναι ανοιχτού κώδικα και παρέχεται δωρέαν από την Google.'
 year: 2012
 license_url: 'https://creativecommons.org/licenses/by/2.0/'
-license_text: Wikipedia
+license_text: Developers.google
 categories:
   - Εργαλεία
 tags:
